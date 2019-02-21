@@ -1,0 +1,11 @@
+{
+  "name": "learn-closure",
+  "version": "1.0.0",
+  "description": "this is a demo about how to explain clousre function in js",
+  "main": "basic-closure.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

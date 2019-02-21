@@ -1,0 +1,1 @@
+this is a demo about how to explain clousre function in js
